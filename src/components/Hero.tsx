@@ -31,7 +31,7 @@ export default function Hero() {
             <Sparkles size={14} /> {settings.heroBadge}
           </div>
           <h1 className="text-4xl md:text-6xl font-semibold leading-[1.08] text-charcoal">
-            Become a <span className="text-gold-dark italic">{settings.heroAccent}</span> Makeup Artist
+            Become a <span className="text-gold-dark italic">{settings.heroAccent}</span> courses and services
           </h1>
           <p className="mt-6 text-base md:text-lg text-charcoal/70 font-body max-w-xl">{settings.heroDescription}</p>
           <p className="mt-4 font-display italic text-lg text-gold-dark">"{settings.heroQuote}"</p>
