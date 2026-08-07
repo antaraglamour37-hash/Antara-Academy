@@ -67,8 +67,8 @@ export const defaultSiteContent: SiteContent = {
     brandLogoUrl: '',
     brandName: 'Antara Academy',
     brandTagline: 'Bridal Makeover',
-    heroBadge: 'Bridal Makeover Academy',
-    heroTitle: 'Become a Professional Makeup Artist',
+    heroBadge: 'Professional courses Academy',
+    heroTitle: 'Become a Professional courses and services',
     heroAccent: 'Professional',
     heroDescription:
       'Learn Bridal Makeup from Basic to Advanced with Practical Hands-on Training under Antara Chakrabarty.',
